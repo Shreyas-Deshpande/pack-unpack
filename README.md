@@ -1,5 +1,5 @@
 
-#Introduction:
+*Introduction:*
 	This project packs all text file from the given folder into a single text file. For each file included in the 
 output file there is a header follwed by file contents. The header contais meta-data of the file such as file name
 and file length/file size.  You can also unpack the packed file. The unpack will give you all the files separated 
