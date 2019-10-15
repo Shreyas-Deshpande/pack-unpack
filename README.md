@@ -1,12 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//															//
-//	Title:		File Packer and Unpacker									//
-//	Date:		21 July 2019										        //	
-//	Description:	This project packs all text files from given folder into single text file and vice versa.	//
-//	Author:		Shreyas Sanjay Deshpande									//
-//															//
-//															//
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #Introduction:
 	This project packs all text file from the given folder into a single text file. For each file included in the 
