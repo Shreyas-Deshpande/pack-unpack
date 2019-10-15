@@ -1,12 +1,12 @@
 
 # Introduction:
-    This project packs all text file from the given folder into a single text file. For each file included in the 
+This project packs all text file from the given folder into a single text file. For each file included in the 
 output file there is a header follwed by file contents. The header contais meta-data of the file such as file name
 and file length/file size.  You can also unpack the packed file. The unpack will give you all the files separated 
 which are packed in single file.
 
 # Prereqisits:
-    It is necessory to have 'Java runtime environment' or 'JDK' to be installed on the computer on which you want to run the project.
+   It is necessory to have 'Java runtime environment' or 'JDK' to be installed on the computer on which you want to run the project.
 # Download & Install:
     * Click on  clone/zip button and download the zip file. 
     * Extract the zip file.
@@ -15,10 +15,10 @@ which are packed in single file.
     * Folder named 'Demo' contains the text files to be packed. You can create your own folder and text files.
     * To run the project  type the following command. 
 
-        ```java Packer```
+        java Packer
 
 # Demonstration:
-    Follw the steps to run the project.
+   Follw the steps to run the project.
 
     * In log-in window type the username and password. Default username and password is 'India'
     * In next window select the action you want to perform(Pacj/Unpack)
