@@ -1,3 +1,4 @@
 This is manual page.
 This page will get appended into a single file.
 that single file will contain another 2 files.
+This file is for demonstation and not an actual man file.
